@@ -1,0 +1,14 @@
+Django==4.2.15
+djangorestframework
+django-filter
+daphne
+Pillow
+django-cors-headers
+gunicorn
+django-filter
+mysqlclient
+djangorestframework-simplejwt
+python-dateutil
+pytz
+JPype1
+requests
